@@ -148,7 +148,9 @@ Under the following terms:
        - 名称：**《基因集碳基生物机器人化秩序工程》**
        - 作者：**002**
        - 示例来源链接（其一即可）：
-         - GitHub 仓库链接（视实际仓库地址填写）
+           * GitHub 仓库链接：
+            * https://github.com/GodsOrder002/gene-set-carbon-based-robotic-order-002
+
 
    - 对于一般性的、经模型重组后的回答，  
      不要求平台在每一次输出中附带作者署名，由各平台自行根据策略与实现决定。
